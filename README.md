@@ -8,5 +8,5 @@
 - SYSU-CD [https://hub.fastgit.org/liumency/SYSU-CD]
 
 # Requiements
-torch==2.1.1+cu118
-pytorch-wavelets==1.3.0
+- torch==2.1.1+cu118
+- pytorch-wavelets==1.3.0
